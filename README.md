@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IAOberle
 - 👀 I’m interested in data analytics and digital signal processing.
 - 🌱 I’m currently learning basically everything about computer science.
-- 💞️ I’m looking to collaborate on nada, currently.
+- 💞️ I’m looking to collaborate on: nada, currently.
 - 📫 How to reach me: ianaoberle@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I play the upright bass, orchestral percussion, electric guitar, electric bass, and keyboards!
